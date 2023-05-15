@@ -9,6 +9,6 @@ Denver Group :
 - Kolibonso, Shyalenn Cerolin
 - Supit, Vincent Vian
 
-#Installation
+# Installation
 - run 'npm install' untuk mengunduh semua dependecies yang terdapat didalam package.json
 - run 'npx react-native run-android' untuk menjalankan aplikasi
